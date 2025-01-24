@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace Calculos
 {
-    internal class Aritmetica
-    {
     /// <summary>
     /// Implementa operações aritméticas.
     /// </summary>
@@ -19,5 +17,4 @@ namespace Calculos
             }
         }
 
-    }
 }
