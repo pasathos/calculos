@@ -22,6 +22,7 @@ namespace Calculos
         }
 
         /// <summary>
+        /// 
         /// Operação soma.
         /// </summary>
         /// <returns>Retorna a soma de dois números.</returns>
